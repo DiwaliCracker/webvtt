@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-Version:3
+#EXT-X-TARGETDURATION:100
+#EXT-X-MEDIA-SEQUENCE:0
+
+# Segment 1 - MP4 1 starting at 1010 seconds
+#EXTINF:100.000,
+https://quadrawebshort.pratikbhandare.workers.dev/xEwSBF
+
+# Segment 2 - MP4 2 starting at 1010 seconds
+#EXTINF:100.000,
+https://quadrawebshort.pratikbhandare.workers.dev/xEwSBF
+
+# Segment 3 - MP4 1 starting at 1020 seconds
+#EXTINF:100.000,
+https://quadrawebshort.pratikbhandare.workers.dev/xEwSBF
+
+# Segment 4 - MP4 2 starting at 1020 seconds
+#EXTINF:100.000,
+https://quadrawebshort.pratikbhandare.workers.dev/xEwSBF
+
+# Add more segments as needed...
+
+#EXT-X-ENDLIST
